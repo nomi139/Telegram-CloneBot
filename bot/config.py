@@ -6,8 +6,8 @@ from distutils.util import strtobool as stb
 BOT_TOKEN = "5526390569:AAF17jdbvJSqgxayEwCMFk_N-x4zMgLkMu8"
 GDRIVE_FOLDER_ID = "0AGxtlHzSKreKUk9PVA"
 # Default folder id.
-OWNER_ID = 123455673
-# Example: OWNER_ID = 619418070
+OWNER_ID = 1828828
+# Example: OWNER_ID = 991126445
 AUTHORISED_USERS = []
 # Example: AUTHORISED_USERS = [-769616265]
 INDEX_URL = ""
